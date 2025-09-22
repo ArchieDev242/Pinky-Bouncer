@@ -14,11 +14,6 @@ This game was developed as one of my first attempts at creating a full-fledged g
 2. Open the project in Unity Hub (recommend Unity 2022.3+).
 3. Hit Play in the editor or build for WebGL/PC.
 
-## Screenshots
-(Add images here: e.g., gameplay with the pink ball bouncing, green/white squares)
-
-![Gameplay Screenshot](path/to/screenshot.png)
-
 ## Tech Stack
 - Unity (C# scripting with BOLT visual scriptinh)
 - 2D Physics (Rigidbody2D, Colliders)
@@ -27,4 +22,3 @@ This game was developed as one of my first attempts at creating a full-fledged g
 ## Planned Updates
 - Add levels with obstacles.
 - Power-ups for bonuses.
-- Leaderboards via PlayFab.
