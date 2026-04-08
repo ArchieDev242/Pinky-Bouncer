@@ -15,7 +15,7 @@ This game was developed as one of my first attempts at creating a full-fledged g
 3. Hit Play in the editor or build for WebGL/PC.
 
 ## Tech Stack
-- Unity (C# scripting with BOLT visual scriptinh)
+- Unity (C# scripting with BOLT visual scripting)
 - 2D Physics (Rigidbody2D, Colliders)
 - Canvas UI
 
